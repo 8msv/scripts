@@ -483,7 +483,7 @@ end)
 Section:NewButton("Roblox screenshare", "shares your screen on booth", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/8msv/scripts/main/ss'))()
 end)
-Section:NewButton("Trivia", "Guessing game", function()
+Section:NewButton("Public Chat V2", "chat on booth", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/BoothChat%20v2.lua'))()
 end)
 
